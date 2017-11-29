@@ -21,4 +21,3 @@ contacts["Freddy Mercury"]
 
   return contacts
 end
-end
